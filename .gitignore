@@ -1,0 +1,4 @@
+# Data Guide  
+Raw datasets are not included in this repo due to licensing restrictions.  
+Please download from Kaggle: [Daily Weather Data 2000–2024](Sourasish02. (2024). _Kolkata Weather Data (2000–2024)_ \[Data set\]. Kaggle. https://www.kaggle.com/datasets/sourasish02/kolkata-weather-data-2000-2024)  
+and place in the `data/` folder.  
