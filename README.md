@@ -94,6 +94,9 @@ jupyter
 - Confusion matrices of ML models
 - ROC curves comparison
 - Feature importance (Random Forest & XGBoost)
+- ### Example figure  
+
+
 
 🔗 References
 
