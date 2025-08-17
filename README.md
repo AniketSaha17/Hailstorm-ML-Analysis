@@ -1,7 +1,5 @@
 # 🌩️ Hailstorm ML Analysis (2000–2024)
 
-[![Open In Colab](https://colab.research.google.com/drive/1V9QuS41_Fy1OeRbiiuQHQnDTa_keYtEl)](https://colab.research.google.com/github/[YOUR_GITHUB_USERNAME](https://github.com/AniketSaha17)/Hailstorm-ML-Analysis/blob/main/notebooks/hailstorm_analysis.ipynb]
-
 This repository contains the analysis and machine learning classification of hailstorm events over Kolkata and surrounding regions, based on meteorological data from 2000–2024.
 
 ## 📌 Project Overview
